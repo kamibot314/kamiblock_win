@@ -6,7 +6,7 @@ You can get more information or [download website](http://kamibot.com/lib)
 
 # Installer
 
-[Kamibot official download page](http://kamibot.com/lib/kamiblock-app/)
+[Kamibot official download page](https://play.google.com/store/apps/details?id=air.com.kamibot.KamiBlock)
 
 # License
 
