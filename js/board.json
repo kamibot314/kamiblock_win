@@ -1,0 +1,15 @@
+[
+{
+    "name":"KamiBot",
+    "codename":"mega",
+    "mcu":
+        {"name":"ATmega2560 (Mega 2560)","codename":"atmega2560","mcu":"atmega2560","protocol":"wiring","speed":115200}
+},
+{
+    "name":"KamiBot (MapBoard)",
+    "codename":"mega",
+    "mcu":
+        {"name":"ATmega2560 (Mega 2560)","codename":"atmega2560","mcu":"atmega2560","protocol":"wiring","speed":115200}
+}
+]
+

@@ -1,0 +1,31 @@
+{
+	"objName": "KamiBot",
+	"sounds": [{
+			"soundName": "pop",
+			"soundID": -1,
+			"md5": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
+			"sampleCount": 258,
+			"rate": 11025,
+			"format": ""
+		}],
+	"costumes": [{
+			"costumeName": "KamiBot",
+			"baseLayerID": -1,
+			"baseLayerMD5": "0d4d74ddd6c05a7dc3ffffbac3282ae6.svg",
+			"rotationCenterX": 100,
+			"rotationCenterY": 100,
+			"scratchX":-10,
+			"scratchY":0
+		}],
+	"currentCostumeIndex": 0,
+	"scratchX": 0,
+	"scratchY": 0,
+	"scale": 1,
+	"direction": 90,
+	"rotationStyle": "normal",
+	"isDraggable": false,
+	"indexInLibrary": 100000,
+	"visible": true,
+	"spriteInfo": {
+	}
+}
